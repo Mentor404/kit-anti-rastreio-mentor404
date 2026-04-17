@@ -9,4 +9,4 @@ Este repositório centraliza toda a documentação, checklists e parâmetros té
 | 01 | Varredura de OSINT e Higiene de Dados | ✅ | [Acessar Guia](./dia-01-osint.md) |
 | 02 | Hardening de Navegador (Brave + uBlock) | ✅ | [Acessar Guia](./dia-02-navegador.md) |
 | 03 | Gerenciamento Avançado de Senhas | 🛠️ | [Em breve] |
-*
+
