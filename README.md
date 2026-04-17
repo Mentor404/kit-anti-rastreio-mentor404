@@ -12,7 +12,7 @@ A maioria das invasões ocorre por meio de vazamentos de banco de dados de grand
 
 Acesse a ferramenta de auditoria [Have I Been Pwned](https://haveibeenpwned.com/).
 Insira seu endereço de e-mail atual (e repita o processo para e-mails antigos).
-Clique em **"pwned?"**.
+Clique em check
 **Análise do Resultado:**
    * Se a tela retornar **Verde**: Não há registros públicos de vazamento para este e-mail.
    * Se a tela retornar **Vermelha**: Role a página. O sistema listará exatamente quais serviços vazaram seus dados e o que foi exposto (senhas, telefone, histórico).
