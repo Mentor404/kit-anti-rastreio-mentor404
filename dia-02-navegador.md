@@ -39,5 +39,5 @@ O objetivo do Dia 2 é construir um kit anti-rastreio para o **dia a dia**.
 * Se eu te recomendo o **Tor**, sua internet fica consideravelmente mais lenta, quebra o seu acesso ao banco e vira um inferno de resolver CAPTCHAs. 
 * Se eu recomendo o **Mullvad Browser**, a proteção anti-fingerprinting dele é tão agressiva que você precisa logar de novo em todas as suas contas todo santo dia, além de quebrar sites com DRM (como Netflix e Spotify).
 
-O Brave é o nosso Nível 1. Ele é o *drop-in replacement* perfeito: corta a telemetria comercial pesada sem transformar o uso da sua internet num ambiente hostil e frustrante. O Tor e o Mullvad são ferramentas cirúrgicas e vão entrar nos módulos *hardcore* do nosso projeto mais para frente.
+O Brave é o nosso Nível 1. Ele é o *drop-in replacement* perfeito: corta a telemetria comercial pesada sem transformar o uso da sua internet num ambiente hostil e frustrante. O Tor e o Mullvad são ferramentas cirúrgicas e vão entrar nos módulos do nosso projeto mais para frente.
 
