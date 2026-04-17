@@ -68,4 +68,9 @@ O cofre só é útil se for prático.
 
 A partir de hoje, sempre que for criar uma conta nova em algum site, abra a extensão do Bitwarden e clique no ícone de "+" para gerar uma string aleatória de 20 caracteres. 
 
+## Opinião tecnica (Leitura Avançada)
+Se você é da área de cibersegurança ou simplesmente quer entender como a matemática por trás da Criptografia de Conhecimento Zero garante que o Bitwarden não consiga ler seus dados, preparei um relatório técnico dissecando a arquitetura da ferramenta, posso estar equivocado em algumas coisas la, analisei 3 fontes que esta no relatorio.
+
+👉 [Ler a Análise Técnica de Arquitetura e Criptografia do Bitwarden](./analise-tecnica-bitwarden.md)
+
 Nos vemos no Dia 4.
